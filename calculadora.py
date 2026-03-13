@@ -66,10 +66,11 @@ def calculadora():
                 print("Resultado = ", raiz_quadrada(a))
             else:
                 print("Operação inválida. Tente novamente.")
-        except:
+        except ValueError:
             print("Digite um número válido.")
 
 
 calculadora()
+
 
 
