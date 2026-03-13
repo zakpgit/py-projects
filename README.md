@@ -1,53 +1,48 @@
-🇺🇸 English
+# 👋 Hello, I'm Zak
 
-This is a simple calculator built with Python to practice programming logic, functions and error handling.
+## 🇺🇸 About Me
+I am a Python student interested in backend development and technology.
 
-Features
+I started learning programming recently and I enjoy building small projects to improve my programming logic and problem solving skills.
 
-Addition
+Currently I am studying:
+- Python
+- Programming Logic
+- Backend Development
 
-Subtraction
+My goal is to work in the technology field and keep improving my skills through projects and learning.
 
-Multiplication
+---
 
-Division
+## 🇧🇷 Sobre Mim
+Sou estudante de Python interessado em desenvolvimento backend e tecnologia.
 
-Power
+Comecei a aprender programação recentemente e gosto de criar pequenos projetos para melhorar minha lógica de programação e resolução de problemas.
 
-Square root
+Atualmente estou estudando:
+- Python
+- Lógica de Programação
+- Desenvolvimento Backend
 
-Technologies
+Meu objetivo é trabalhar na área de tecnologia e continuar evoluindo minhas habilidades através de projetos e estudos.
 
-Python
+---
 
-Purpose
+## 🚀 Projects
+Some of the projects I built while learning:
 
-This project was created to improve my programming skills and practice building simple terminal applications.
+- Calculator in Python
+- Even or Odd Number Detector
+- Rock Paper Scissors Game
+- School System (in development)
 
----------------------------------------------|
+---
 
-🇧🇷 Português
+## 🛠️ Technologies
+- Python
+- Git
+- GitHub
 
-Esta é uma calculadora simples feita em Python para praticar lógica de programação, funções e tratamento de erros.
+---
 
-Funcionalidades
-
-Soma
-
-Subtração
-
-Multiplicação
-
-Divisão
-
-Potência
-
-Raiz quadrada
-
-Tecnologias
-
-Python
-
-Objetivo
-
-Este projeto foi criado para melhorar minhas habilidades em programação e praticar a criação de aplicações no terminal.
+⭐ Always learning and building new things.
